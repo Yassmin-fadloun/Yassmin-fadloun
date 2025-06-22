@@ -1,8 +1,8 @@
 <div align="center">
-<!--<h1>Hi, I'm Yassmin Fadloun<h>
+<!--<h1>Hi, I'm Yassmin Fadloun<h>-->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=1E90FF&center=true&vCenter=true&width=600&lines=Yassmin+Fadloun" alt="Typing SVG" />
-</p>-->
+</p>
 <p align="center">
   <img src="https://yourdomain.com/yassmin-name.svg" alt="Yassmin Fadloun multicolor typing animation" />
 </p>
