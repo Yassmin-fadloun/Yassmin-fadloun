@@ -1,11 +1,11 @@
 <div align="center">
-# Hi, I'm Yassmin Fadloun
+<h1>Hi, I'm Yassmin Fadloun<h>
 
 ---
 
 **Cloud Devops Engineer | 2X AWS**
 
-- How to reach me **[yassminfadlun@gmail.com](yassminfadlun@gmail.com)**
+ **[yassminfadlun@gmail.com](yassminfadlun@gmail.com)**
 ---
 
 <em><a href="www.linkedin.com/in/yassmin-fadloun/" style="color:#1E90FF; text-decoration: underline;">LinkedIn</a></em> &nbsp; &#124; &nbsp;
