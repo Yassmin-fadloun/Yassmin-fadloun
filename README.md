@@ -20,7 +20,7 @@
 </p>
 
 ---
-
+<!--
 <h3 align="left">Programming Languages:</h3>
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
@@ -122,7 +122,7 @@
 
 
 ---
-
+-->
 
 <h3 align="left">Github Stats:</h3>
 
