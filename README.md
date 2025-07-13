@@ -120,20 +120,19 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yassmin-fadloun&show_icons=true&locale=en&layout=compact&theme=radical#gh-dark-mode-only" alt="Yassmin Fadloun GitHub Top Languages (Dark)" />
-</p>
+![Top Langs Dark](https://github-readme-stats.vercel.app/api/top-langs?username=Yassmin-fadloun&show_icons=true&locale=en&layout=compact&theme=radical#gh-dark-mode-only)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yassmin-fadloun&show_icons=true&locale=en&layout=compact&theme=default#gh-light-mode-only" alt="Yassmin Fadloun GitHub Top Languages (Light)" />
-</p>
+![Top Langs Light](https://github-readme-stats.vercel.app/api/top-langs?username=Yassmin-fadloun&show_icons=true&locale=en&layout=compact&theme=default#gh-light-mode-only)
+
 
 ---
 
 
 <h3 align="left">Github Stats:</h3>
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Yassmin-fadloun&label=Profile%20views&color=0e75b6&style=flat" alt="yassmin-fadloun profile views" />
