@@ -120,11 +120,7 @@
   </a>
 </p>
 
-![Top Langs Dark](https://github-readme-stats.vercel.app/api/top-langs?username=Yassmin-fadloun&show_icons=true&locale=en&layout=compact&theme=radical#gh-dark-mode-only)
-
-![Top Langs Light](https://github-readme-stats.vercel.app/api/top-langs?username=Yassmin-fadloun&show_icons=true&locale=en&layout=compact&theme=default#gh-light-mode-only)
-
-
+![Top Langs Dark](https://github-readme-stats.vercel.app/api/top-langs?username=Yassmin-fadloun&show_icons=true&locale=en&layout=compact&theme=radical)
 
 ---
 
