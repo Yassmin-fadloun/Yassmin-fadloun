@@ -122,6 +122,9 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yassmin-fadloun&show_icons=true&locale=en&layout=compact&theme=radical#gh-dark-mode-only" alt="Yassmin Fadloun GitHub Top Languages (Dark)" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yassmin-fadloun&show_icons=true&locale=en&layout=compact&theme=default#gh-light-mode-only" alt="Yassmin Fadloun GitHub Top Languages (Light)" />
 </p>
 
